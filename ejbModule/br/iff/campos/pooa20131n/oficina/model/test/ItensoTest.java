@@ -74,5 +74,4 @@ public class ItensoTest {
 		pveic.delete(uid);
 		pprop.delete(uid);
 	}
-
 }
